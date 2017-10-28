@@ -1,2 +1,6 @@
 creates file 1
+<<<<<<< Updated upstream
 update 3 - stash 3
+=======
+update 2 - stash 2
+>>>>>>> Stashed changes
